@@ -1,0 +1,35 @@
+username=abi
+pass=123
+header("Location: sorry.php");
+
+
+anime image link
+https://www.pling.com/p/1762984/
+
+login src link
+https://codepen.io/colorlib/pen/rxddKy
+https://colorlib.com/wp/template/creative-login-form/
+
+
+anime character 
+https://aniyuki.com/anime-profile-picture/
+
+
+anime wallpaper
+https://wall.alphacoders.com/big.php?i=640956
+
+
+python quiz question 
+https://www.sanfoundry.com/1000-python-questions-answers/
+
+
+level info datbase createion
+levelinfod.php
+
+
+daily task database creation
+dailytaskmon.php
+
+
+https://gifdb.com/gif/sad-hina-takanashi-anime-girl-0ofhjf7tez3gn8jd.html
+gif pic

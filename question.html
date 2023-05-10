@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="css/6.css">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>question setup</title>
+</head>
+<body>
+
+<h1 style="text-align: center; color: white;">Question Setup</h1>
+
+
+<div class="dropdown">
+  <button class="dropbtn">Menu</button>
+  <div class="dropdown-content">
+    <a href="adminpanel.html">Levels</a>
+    <a href="bosslevel.html">boss level</a>
+    <a href="pointc.html">point</a>
+    <a href="question.html">question setup</a>
+    <a href="task.html">Task</a>
+    <a href="infod.html">Info board</a>
+    <a href="playerd.php">players details</a>
+    <a href="gmaster.php">Game Master</a>
+    <a href="index.html">log out</a>
+  </div>
+</div>
+
+
+<div class="login-page">
+  <div class="form">
+    <form class="login-form" action="quest.php" method="post" enctype="multipart/form-data">
+      <input type="text" name="name" placeholder="level 1"/>
+      <input type="text" name="desc" placeholder="v or q"/>
+      <input type="text" name="answer" placeholder="a,b,c,d"/>
+      <input type="file" name="fileToUpload" id="fileToUpload"/>
+      <button type="submit" name="na" value="insert">create</button>
+      <button type="submit" name="na" value="delete">delete</button>
+      <p class="message">Level create? <a href="adminpanel.html">press here</a></p>
+    </form>
+  </div>
+</div>
+</body>
+</html>

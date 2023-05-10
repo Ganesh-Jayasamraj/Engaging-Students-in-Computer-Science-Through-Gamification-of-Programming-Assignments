@@ -1,0 +1,46 @@
+body {
+	background-image: url('../src/img/anime1bk.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;  
+	background-size: cover;
+	background-size: 100% 100%;
+  	font-family: "Roboto", sans-serif;
+  	-webkit-font-smoothing: antialiased;
+  	-moz-osx-font-smoothing: grayscale;      
+}
+
+.prof{
+  	opacity: 0.9;
+  	position: relative;
+  	z-index: 1;
+  	background: #FFFFFF;
+  	max-width: 560px;
+  	margin: 0 auto 100px;
+  	padding: 45px;
+  	text-align: center;
+  	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+.prof a img{
+	border-radius: 50%;
+	width: 300px;
+	height: 300px;
+}
+
+.prof button {
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  outline: 0;
+  background: #4CAF50;
+  width: 100%;
+  border: 0;
+  padding: 15px;
+  color: #FFFFFF;
+  font-size: 14px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+}
+.prof button:hover,.prof button:active,.prof button:focus {
+  background: #43A047;
+}
